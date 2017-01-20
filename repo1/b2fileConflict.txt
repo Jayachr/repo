@@ -1,4 +1,1 @@
-<<<<<<< HEAD
 This will be highlighted as conflict
-=======
->>>>>>> b1
